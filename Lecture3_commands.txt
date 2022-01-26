@@ -1,0 +1,211 @@
+    1  
+    2  lsb_release -a
+    3  sudo apt update
+    4  clearr
+    5  cleasr
+    6  clear
+    7  python3 --version
+    8  git --version
+    9  git config --global user.name "Edwin Morejon"
+   10  git config --global user.email "em21958@email.vccs.edu"
+   11  git config --global color.ui auto
+   12  pwd
+   13  ll
+   14  clear
+   15  ll
+   16  mkdir ITP270
+   17  ls
+   18  cd ITP270
+   19  ll
+   20  ls
+   21  clear
+   22  nano ITP2702.py
+   23  python3 ITP2702.py
+   24  nano ITP2702.py
+   25  clear
+   26  python3 ITP2702.py
+   27  git init 
+   28  clear
+   29  ll
+   30  ls
+   31  pwd
+   32  cd home/kali
+   33  cd /home/kali
+   34  ls
+   35  git clone 200~https://github.com/em21958/ITP270-Edwin
+   36  cd ..
+   37  pwd
+   38  cd /home/kali
+   39  pwd
+   40  clear
+   41  git clone https://github.com/em21958/ITP270-Edwin.git
+   42  ls
+   43  cd ITP270
+   44  ls
+   45  cat ITP2702.py
+   46  clear
+   47  help cp
+   48  man cp
+   49  clear
+   50  ls
+   51  ch..
+   52  cd ..
+   53  cd /home/kali
+   54  ls
+   55  cd ITP270
+   56  cp ITP2702.py ~/ITP270-Edwin/
+   57  pwd
+   58  ls
+   59  cd /home/kali
+   60  ls
+   61  cd ITP270-Edwin
+   62  ls
+   63  git status
+   64  clear
+   65  git add -A
+   66  git status
+   67  git commit -m "adding the file ITP2702.py"
+   68  git status
+   69  git push
+   70  histoy > git_commands_class01_20.txt
+   71  history
+   72  history > commands_class_01_20.txt
+   73  ls
+   74  cat commands_class_01_20.txt 
+   75  ls
+   76  help rm
+   77  man rm
+   78  rm git_commands_class01_20.txt
+   79  ls
+   80  clear
+   81  close
+   82  exit
+   83  cd ITP270-Edwin
+   84  pwd
+   85  cd ..
+   86  pwd
+   87  cd ITP270-Edwin
+   88  nano ITP170LEcture3
+   89  ls
+   90  cat ITP170LEcture3
+   91  git status
+   92  git add -A
+   93  git status
+   94  clear
+   95  git commit -m "Adding the lecutre 3 file with commmand class and folder structure"
+   96  git push
+   97  pwd
+   98  cd ..
+   99  pwd
+  100  mkdir Movies
+  101  cd Movies
+  102  pwd
+  103  ls
+  104  clear
+  105  mkdir Action
+  106  mkdir Comedy
+  107  mkdir Drama
+  108  ls
+  109  clera
+  110  clear
+  111  touch genres.txt
+  112  ls
+  113  cd Action
+  114  ls
+  115  mkdir scifi
+  116  cd scifi
+  117  touch terminator.txt
+  118  ls
+  119  cd ..
+  120  ls
+  121  pwd
+  122  clear
+  123  pwd
+  124  mkdir superhero
+  125  touch batman.txt
+  126  touch matrix-reloaded.txt
+  127  touch matrix-revolutions.txt
+  128  touch matrix.txt
+  129  touch superman.txt
+  130  touch wonderwoman.txt
+  131  clear
+  132  ls
+  133  cd ..
+  134  cd comedy
+  135  ls
+  136  cd Comedt
+  137  cd Comedy
+  138  mkdir slapstick
+  139  mkdir satire
+  140  touch the-office.txt
+  141  cd slapstick
+  142  touch waterboy.txt
+  143  touch zoolander.txt
+  144  ls
+  145  cd ..
+  146  ls
+  147  cd satire
+  148  ls
+  149  touch fightclub.txt
+  150  ls
+  151  cd ..
+  152  ls
+  153  pwd
+  154  cd..
+  155  cd ..
+  156  ls
+  157  pwd
+  158  cd drama
+  159  cd Drama
+  160  mkdir biopic
+  161  cd biopic
+  162  pwd
+  163  touch cleopatra.txt
+  164  touch lincoln.txt
+  165  touch frida.txt
+  166  touch notorious.txt
+  167  touch tay.txt
+  168  touch ray,txt
+  169  ls
+  170  rm tay.txt
+  171  ls
+  172  cd ..
+  173  ls
+  174  pwd
+  175  ls
+  176  cd Drama
+  177  mkdir historical
+  178  mkdir historical 
+  179  cd historical
+  180  touch gladiator.txt
+  181  touch selma.txt
+  182  ls
+  183  cd ..
+  184  ls
+  185  pwd
+  186  cd ..
+  187  ls
+  188  pwd
+  189  clear
+  190  pwd
+  191  ls
+  192  tree
+  193  pwd
+  194  cd ..
+  195  ls
+  196  histoy
+  197  hisrory
+  198  clear
+  199  ls 
+  200  cd movies
+  201  cd Movies
+  202  ls 
+  203  pwd
+  204  tree
+  205  ls 
+  206  pwd
+  207  clear
+  208  pwd
+  209  cd ..
+  210  ls
+  211  pwd
