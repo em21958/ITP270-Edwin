@@ -1,0 +1,71 @@
+    1  
+    2  lsb_release -a
+    3  sudo apt update
+    4  clearr
+    5  cleasr
+    6  clear
+    7  python3 --version
+    8  git --version
+    9  git config --global user.name "Edwin Morejon"
+   10  git config --global user.email "em21958@email.vccs.edu"
+   11  git config --global color.ui auto
+   12  pwd
+   13  ll
+   14  clear
+   15  ll
+   16  mkdir ITP270
+   17  ls
+   18  cd ITP270
+   19  ll
+   20  ls
+   21  clear
+   22  nano ITP2702.py
+   23  python3 ITP2702.py
+   24  nano ITP2702.py
+   25  clear
+   26  python3 ITP2702.py
+   27  git init 
+   28  clear
+   29  ll
+   30  ls
+   31  pwd
+   32  cd home/kali
+   33  cd /home/kali
+   34  ls
+   35  git clone 200~https://github.com/em21958/ITP270-Edwin
+   36  cd ..
+   37  pwd
+   38  cd /home/kali
+   39  pwd
+   40  clear
+   41  git clone https://github.com/em21958/ITP270-Edwin.git
+   42  ls
+   43  cd ITP270
+   44  ls
+   45  cat ITP2702.py
+   46  clear
+   47  help cp
+   48  man cp
+   49  clear
+   50  ls
+   51  ch..
+   52  cd ..
+   53  cd /home/kali
+   54  ls
+   55  cd ITP270
+   56  cp ITP2702.py ~/ITP270-Edwin/
+   57  pwd
+   58  ls
+   59  cd /home/kali
+   60  ls
+   61  cd ITP270-Edwin
+   62  ls
+   63  git status
+   64  clear
+   65  git add -A
+   66  git status
+   67  git commit -m "adding the file ITP2702.py"
+   68  git status
+   69  git push
+   70  histoy > git_commands_class01_20.txt
+   71  history
